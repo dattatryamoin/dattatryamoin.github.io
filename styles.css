@@ -1,0 +1,27 @@
+html, body{height:100%;}
+body{
+  margin:0;
+  background: no-repeat url(header.jpg) 50%;
+  background-size: cover;
+}
+
+#start{ 
+  position:absolute;
+  top:75%; /* if circle bulb in image is at 60% set at 60% */
+  left:48%;
+  margin-top:  -50px;
+  margin-left: -50px;
+}
+
+a
+{
+	color: white;
+}
+
+#div-align
+{
+color: white;
+font-size: 30px;
+text-align: center;
+margin-top: 12%;
+}
